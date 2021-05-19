@@ -1,14 +1,14 @@
 {
-  "name": "nodejs-CRUD-app",
+  "name": "zuri-crud-app-with-database",
   "version": "1.0.0",
-  "description": "CRUD application made with NodeJs, Express and MongoDb (Task solution for Zuri Internship)",
-  "main": "server.js",
+  "description": "This is a crud app",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lekandev/nodejs-CRUD-app.git"
+    "url": "git+https://github.com/Musab1258/zuri-CRUD-App-with-Database.git"
   },
   "keywords": [
     "crud",
@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lekandev/nodejs-CRUD-app/issues"
+    "url": "https://github.com/Musab1258/zuri-CRUD-App-with-Database/issues"
   },
-  "homepage": "https://github.com/lekandev/nodejs-CRUD-app#readme",
+  "homepage": "https://github.com/Musab1258/zuri-CRUD-App-with-Database#readme",
   "dependencies": {
     "dotenv": "^9.0.0",
     "express": "^4.17.1",
