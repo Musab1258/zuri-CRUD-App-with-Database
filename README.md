@@ -14,3 +14,6 @@ PUT request to '/people/:id' route.
 
 DELETE
 DELETE request to '/people/:id' route.
+
+Link to heroku app
+https://zuri-crud-app-with-database.herokuapp.com/
